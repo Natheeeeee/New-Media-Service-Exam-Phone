@@ -1,0 +1,610 @@
+.nav-link {
+    color: var(--default-white, #ffffff);
+    position: relative;
+    line-height: 28px;
+}
+.navitems {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6px 16px;
+    cursor: pointer;
+}
+.navbar-nav {
+    position: absolute;
+    top: 51px;
+    right: 67px;
+    width: 90px;
+    height: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.navitems1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6px 16px;
+}
+.navbar-nav1 {
+    position: absolute;
+    top: 51px;
+    right: 0px;
+    width: 90px;
+    height: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    cursor: pointer;
+}
+.nav-link2 {
+    color: var(--default-white, #ffffff);
+    position: relative;
+    line-height: 28px;
+    cursor: pointer;
+}
+.navbar-nav2 {
+    position: absolute;
+    top: 51px;
+    right: 136px;
+    width: 90px;
+    height: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.homepage-child {
+    position: absolute;
+    top: 709px;
+    left: calc(50% - 169.5px);
+    filter: blur(15px);
+    border-radius: 20px;
+    background-color: #1a86e0;
+    width: 332px;
+    height: 23px;
+}
+.homepage-item {
+    position: absolute;
+    top: 986px;
+    left: calc(50% - 48.5px);
+    filter: blur(15px);
+    border-radius: 20px;
+    background-color: #1a86e0;
+    width: 228px;
+    height: 23px;
+}
+.logo-icon {
+    position: absolute;
+    top: 40px;
+    left: 12px;
+    width: 132.5px;
+    height: 33.1px;
+    object-fit: contain;
+}
+.lebron-james-image {
+    position: absolute;
+    top: 501px;
+    left: calc(50% - 28.5px);
+    width: 183px;
+    height: 271px;
+    object-fit: cover;
+}
+.homepage-inner {
+    position: absolute;
+    top: 3050px;
+    left: calc(50% - 187.5px);
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 95px;
+    height: 93px;
+}
+.ellipse-div {
+    position: absolute;
+    top: 2983px;
+    left: calc(50% - 161.5px);
+    border-radius: 50%;
+    background-color: rgba(27, 110, 184, 0.5);
+    width: 99px;
+    height: 97px;
+}
+.homepage-child1 {
+    position: absolute;
+    top: 3050px;
+    left: calc(50% - 131.5px);
+    border-radius: 50%;
+    background-color: #e51a25;
+    width: 94px;
+    height: 93px;
+}
+.red-circle-faded-2 {
+    position: absolute;
+    top: 150px;
+    left: 345px;
+    filter: blur(150px);
+    border-radius: 50%;
+    background-color: #e51a25;
+    width: 93px;
+    height: 93px;
+}
+.red-circle-faded-3 {
+    position: absolute;
+    top: 3033px;
+    left: 32px;
+    filter: blur(150px);
+    border-radius: 50%;
+    background-color: #f5e4e5;
+    width: 93px;
+    height: 93px;
+}
+.red-circle-faded {
+    position: absolute;
+    top: -26px;
+    left: 22px;
+    filter: blur(150px);
+    border-radius: 50%;
+    background-color: #e51a25;
+    width: 93px;
+    height: 93px;
+}
+.red-circle-faded1 {
+    position: absolute;
+    top: 892px;
+    left: calc(50% - 233.5px);
+    filter: blur(150px);
+    border-radius: 50%;
+    background-color: #e51a25;
+    width: 93px;
+    height: 93px;
+}
+.red-circle-faded2 {
+    position: absolute;
+    top: 1157px;
+    left: calc(50% - 44.5px);
+    filter: blur(150px);
+    border-radius: 50%;
+    background-color: #e51a25;
+    width: 93px;
+    height: 93px;
+}
+.red-circle-faded3 {
+    position: absolute;
+    top: 538px;
+    left: calc(50% - 52.5px);
+    filter: blur(150px);
+    border-radius: 50%;
+    background-color: #e51a25;
+    width: 93px;
+    height: 93px;
+}
+.homepage-image-2 {
+    position: absolute;
+    top: 336px;
+    left: calc(50% - 174.5px);
+    border-radius: 20px;
+    width: 144px;
+    height: 136px;
+    object-fit: cover;
+}
+.homepage-image-1 {
+    position: absolute;
+    top: 128px;
+    left: calc(50% + 30.5px);
+    border-radius: 20px;
+    width: 144px;
+    height: 136px;
+    object-fit: cover;
+}
+.masthead-section-1 {
+    position: absolute;
+    top: 142px;
+    left: calc(50% - 171.5px);
+    font-size: 17px;
+    line-height: 18px;
+    font-weight: 800;
+    display: inline-block;
+    width: 190px;
+    height: 52px;
+}
+.creating-value-off {
+    position: absolute;
+    top: 201px;
+    left: calc(50% - 171.5px);
+    font-size: 11px;
+    line-height: 15px;
+    font-weight: 300;
+    display: inline-block;
+    width: 190px;
+    height: 42px;
+}
+.section-2 {
+    position: absolute;
+    top: 359px;
+    left: calc(50% - 9.5px);
+    font-size: 17px;
+    line-height: 18px;
+    font-weight: 800;
+    display: inline-block;
+    width: 176px;
+    height: 20px;
+}
+.your-ultimate-destination {
+    position: absolute;
+    top: 382px;
+    left: calc(50% - 8.5px);
+    font-size: 11px;
+    letter-spacing: -0.02em;
+    line-height: 15px;
+    font-weight: 300;
+    display: inline-block;
+    width: 190px;
+    height: 47px;
+}
+.mission-description {
+    position: absolute;
+    top: 573px;
+    left: calc(50% - 175.5px);
+    border-radius: 20px;
+    background-color: #d9d9d9;
+    border: 4px solid #000;
+    box-sizing: border-box;
+    width: 351px;
+    height: 156px;
+}
+.mission-description1 {
+    position: absolute;
+    top: 847px;
+    left: calc(50% - 57.5px);
+    border-radius: 20px;
+    background-color: #d9d9d9;
+    border: 4px solid #000;
+    box-sizing: border-box;
+    width: 241px;
+    height: 160px;
+}
+.section-3 {
+    position: absolute;
+    top: 591px;
+    left: calc(50% - 34.5px);
+    line-height: 28px;
+    display: inline-block;
+    font-family: 'Roboto Mono';
+    color: #000;
+    text-align: center;
+    width: 61px;
+    height: 24px;
+}
+.section-4 {
+    position: absolute;
+    top: 847px;
+    left: calc(50% - 27.5px);
+    line-height: 28px;
+    display: inline-block;
+    font-family: 'Roboto Mono';
+    color: #000;
+    text-align: center;
+    width: 186px;
+    height: 28px;
+}
+.mission-circle {
+    position: absolute;
+    top: 518px;
+    left: calc(50% - 40.5px);
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    border: 4px solid #000;
+    box-sizing: border-box;
+    width: 73px;
+    height: 71px;
+}
+.bullseye-icon {
+    position: absolute;
+    top: 533px;
+    left: calc(50% - 23.5px);
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+}
+.mission-description2 {
+    position: absolute;
+    top: 618px;
+    left: calc(50% - 158.5px);
+    font-size: 9px;
+    line-height: 15px;
+    font-weight: 500;
+    color: #000;
+    display: inline-block;
+    width: 320px;
+    height: 81px;
+}
+.mission-description3 {
+    position: absolute;
+    top: 872px;
+    left: calc(50% - 44.5px);
+    font-size: 11px;
+    line-height: 18px;
+    font-weight: 500;
+    color: #000;
+    display: inline-block;
+    width: 221px;
+    height: 126px;
+}
+.pngwing-1-icon {
+    position: absolute;
+    top: 835px;
+    left: calc(50% - 192.5px);
+    width: 135px;
+    height: 171px;
+    object-fit: cover;
+}
+.person-check-fill-icon {
+    position: absolute;
+    top: 1088px;
+    left: calc(50% - 27.5px);
+    width: 62px;
+    height: 61px;
+    overflow: hidden;
+}
+.the-platform-of {
+    position: absolute;
+    top: 1160px;
+    left: calc(50% - 95.5px);
+    font-size: 20px;
+    line-height: 18px;
+    font-weight: 800;
+}
+.build-a-unified {
+    position: absolute;
+    top: 3006px;
+    left: calc(50% - 46.5px);
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+    display: inline-block;
+    width: 242px;
+    height: 82px;
+}
+.imgplaceholder-icon {
+    width: 364px;
+    position: relative;
+    height: 214px;
+    object-fit: cover;
+}
+.cardimage1 {
+    border-radius: 12px 12px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.card-title {
+    position: relative;
+    font-weight: 600;
+}
+.this-is-a {
+    width: 310px;
+    position: relative;
+    font-size: 12px;
+    line-height: 28px;
+    color: #68717a;
+    display: inline-block;
+}
+.stack {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.last-updated-3 {
+    position: relative;
+    font-size: 12px;
+    color: #6c757d;
+}
+.cardcontent {
+    align-self: stretch;
+    border: 4px solid #1a86e0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 24px;
+    gap: 24px;
+}
+.cardimage {
+    position: absolute;
+    top: 1197px;
+    left: calc(50% - 180.5px);
+    border-radius: 20px;
+    background-color: #fff;
+    border: 4px solid #1a86e0;
+    box-sizing: border-box;
+    height: 407px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 20px;
+    color: #212529;
+}
+.cardimage2 {
+    position: absolute;
+    top: 1626px;
+    left: calc(50% - 180.5px);
+    border-radius: 20px;
+    background-color: #fff;
+    border: 4px solid #1a86e0;
+    box-sizing: border-box;
+    height: 407px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 20px;
+    color: #212529;
+}
+.cardimage4 {
+    position: absolute;
+    top: 2055px;
+    left: calc(50% - 180.5px);
+    border-radius: 20px;
+    background-color: #fff;
+    border: 4px solid #1a86e0;
+    box-sizing: border-box;
+    height: 407px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 20px;
+    color: #212529;
+}
+.cardimage6 {
+    position: absolute;
+    top: 2484px;
+    left: calc(50% - 180.5px);
+    border-radius: 20px;
+    background-color: #fff;
+    border: 4px solid #1a86e0;
+    box-sizing: border-box;
+    height: 407px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 20px;
+    color: #212529;
+}
+.confident-asian-female-entrepr-icon {
+    position: absolute;
+    top: 2983px;
+    left: 20px;
+    width: 236px;
+    height: 160px;
+    object-fit: cover;
+}
+.group-child {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    background-color: #000;
+    width: 423px;
+    height: 20px;
+}
+.logo-icon1 {
+    position: absolute;
+    top: 12px;
+    left: 21.43px;
+    width: 106px;
+    height: 16.5px;
+    object-fit: contain;
+}
+.navitems3 {
+    position: absolute;
+    top: 0px;
+    left: 170.33px;
+    width: 97px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6px 16px;
+    box-sizing: border-box;
+}
+.contact-us {
+    position: absolute;
+    top: 6px;
+    left: 327.12px;
+    line-height: 28px;
+    display: inline-block;
+    width: 48.5px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 423px;
+    height: 40px;
+}
+.group-div {
+    position: absolute;
+    top: 3195px;
+    left: 10px;
+    width: 423px;
+    height: 40px;
+    font-size: 8px;
+}
+.button1 {
+    position: relative;
+    line-height: 18px;
+    font-weight: 600;
+}
+.button {
+    position: absolute;
+    top: 238px;
+    left: 65px;
+    border-radius: 20px;
+    background-color: #fff;
+    width: 140px;
+    height: 46px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #000;
+}
+.button3 {
+    position: relative;
+    left: 15px;
+    line-height: 18px;
+    font-weight: 600;
+    white-space: pre-wrap;
+}
+.button2 {
+    position: absolute;
+    top: 3088px;
+    left: 230px;
+    border-radius: 20px;
+    background-color: #fff;
+    width: 140px;
+    height: 44px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #000;
+}
+.homepage {
+    width: 100%;
+    position: relative;
+    background-color: #203354;
+    height: 3225px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 10px;
+    color: #fff;
+    font-family: Inter;
+}
+
+body {
+    margin: 0;
+    line-height: normal;
+    }
+    
+a{
+    color: white;
+}

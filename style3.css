@@ -1,0 +1,408 @@
+.nav-link {
+    position: relative;
+    line-height: 28px;
+}
+.navitems {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6px 16px;
+}
+.navbar-nav {
+    position: absolute;
+    top: 51px;
+    right: 67px;
+    width: 90px;
+    height: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    cursor: pointer;
+    text-align: left;
+}
+.navbar-nav1 {
+    position: absolute;
+    top: 51px;
+    right: -3px;
+    width: 90px;
+    height: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    cursor: pointer;
+    text-align: left;
+}
+.navitems2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6px 16px;
+    cursor: pointer;
+}
+.navbar-nav2 {
+    position: absolute;
+    top: 51px;
+    right: 127px;
+    width: 90px;
+    height: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+}
+.logo-icon {
+    position: absolute;
+    top: 40px;
+    left: 15px;
+    width: 132.5px;
+    height: 33.1px;
+    object-fit: contain;
+}
+.red-circle-faded {
+    position: absolute;
+    top: 320px;
+    left: -30px;
+    filter: blur(150px);
+    border-radius: 50%;
+    background-color: #e51a25;
+    width: 93px;
+    height: 93px;
+}
+.red-circle-faded1 {
+    position: absolute;
+    top: -26px;
+    left: 25px;
+    filter: blur(150px);
+    border-radius: 50%;
+    background-color: #e51a25;
+    width: 93px;
+    height: 93px;
+}
+.red-circle-faded2 {
+    position: absolute;
+    top: 179px;
+    left: 326px;
+    filter: blur(150px);
+    border-radius: 50%;
+    background-color: #e51a25;
+    width: 93px;
+    height: 93px;
+}
+.section-6 {
+    position: absolute;
+    top: 124px;
+    left: calc(50% - 169.5px);
+    font-size: 17px;
+    line-height: 18px;
+    font-weight: 800;
+    display: inline-block;
+    width: 138px;
+    height: 20px;
+}
+.mission-description-icon {
+    position: absolute;
+    top: 233px;
+    left: calc(50% - 139.5px);
+    border-radius: 20px;
+    width: 278px;
+    height: 156px;
+    object-fit: cover;
+}
+.portrait-happy-asian-woman-poi-icon {
+    position: absolute;
+    top: 150px;
+    left: calc(50% - 90.5px);
+    width: 179px;
+    height: 83px;
+    object-fit: cover;
+}
+.sportstxt-is-a {
+    margin: 0;
+}
+.sportstxt-is-a-container {
+    position: absolute;
+    top: 400px;
+    left: calc(50% - 137.5px);
+    font-size: 11px;
+    line-height: 18px;
+    text-align: left;
+    display: inline-block;
+    width: 272px;
+    height: 108px;
+}
+.about-us-child {
+    position: absolute;
+    top: 563px;
+    left: -5px;
+    width: 450px;
+    height: 530px;
+    object-fit: cover;
+}
+.section-7 {
+    position: absolute;
+    top: 575px;
+    left: calc(50% - 70.5px);
+    font-size: 17px;
+    line-height: 18px;
+    font-weight: 800;
+    display: inline-block;
+    width: 138px;
+    height: 20px;
+}
+.reina {
+    position: absolute;
+    top: 802px;
+    left: 82px;
+    font-size: 13px;
+    line-height: 28px;
+    font-family: Inika;
+}
+.kalista {
+    position: absolute;
+    top: 1037px;
+    left: 328px;
+    font-size: 13px;
+    line-height: 28px;
+    font-family: Inika;
+}
+.harper {
+    position: absolute;
+    top: 1037px;
+    left: 80px;
+    font-size: 13px;
+    line-height: 28px;
+    font-family: Inika;
+}
+.shawn {
+    position: absolute;
+    top: 802px;
+    left: 328px;
+    font-size: 13px;
+    line-height: 28px;
+    font-family: Inika;
+}
+.chief-executive-order {
+    position: absolute;
+    top: 816px;
+    left: 45px;
+    line-height: 28px;
+    text-align: left;
+    display: inline-block;
+    width: 109px;
+    height: 27px;
+}
+.vice-president {
+    position: absolute;
+    top: 1052px;
+    left: 45px;
+    line-height: 28px;
+    display: inline-block;
+    width: 109px;
+    height: 27px;
+}
+.chief-marketing-officer {
+    position: absolute;
+    top: 1057px;
+    left: 295px;
+    line-height: 15px;
+    display: inline-block;
+    width: 109px;
+    height: 48px;
+}
+.president {
+    position: absolute;
+    top: 816px;
+    left: 295px;
+    line-height: 28px;
+    display: inline-block;
+    width: 109px;
+    height: 27px;
+}
+.about-us-item {
+    position: absolute;
+    top: 1238px;
+    left: calc(50% - 178.5px);
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 95px;
+    height: 93px;
+}
+.about-us-inner {
+    position: absolute;
+    top: 1171px;
+    left: calc(50% - 152.5px);
+    border-radius: 50%;
+    background-color: rgba(27, 110, 184, 0.5);
+    width: 99px;
+    height: 97px;
+}
+.ellipse-div {
+    position: absolute;
+    top: 1238px;
+    left: calc(50% - 122.5px);
+    border-radius: 50%;
+    background-color: #e51a25;
+    width: 94px;
+    height: 93px;
+}
+.red-circle-faded-5 {
+    position: absolute;
+    top: 1221px;
+    left: 41px;
+    filter: blur(150px);
+    border-radius: 50%;
+    background-color: #f5e4e5;
+    width: 93px;
+    height: 93px;
+}
+.build-a-unified {
+    position: absolute;
+    top: 1194px;
+    left: calc(50% - 37.5px);
+    font-size: 20px;
+    font-weight: 800;
+    display: inline-block;
+    width: 242px;
+    height: 82px;
+}
+.confident-asian-female-entrepr-icon {
+    position: absolute;
+    top: 1171px;
+    left: 30px;
+    width: 236px;
+    height: 160px;
+    object-fit: cover;
+}
+.button1 {
+    position: relative;
+    left: 15px;
+    line-height: 18px;
+    font-weight: 600;
+    white-space: pre-wrap;
+}
+.button {
+    position: absolute;
+    top: 1281px;
+    left: 230px;
+    border-radius: 20px;
+    background-color: #fff;
+    width: 140px;
+    height: 44px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    color: #000;
+}
+.group-child {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    background-color: #000;
+    width: 423px;
+    height: 20px;
+}
+.logo-icon1 {
+    position: absolute;
+    top: 12px;
+    left: 21.43px;
+    width: 106px;
+    height: 16.5px;
+    object-fit: contain;
+}
+.navitems3 {
+    position: absolute;
+    top: 0px;
+    left: 170.33px;
+    width: 97px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6px 16px;
+    box-sizing: border-box;
+}
+.contact-us {
+    position: absolute;
+    top: 6px;
+    left: 327.12px;
+    line-height: 28px;
+    display: inline-block;
+    width: 48.5px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 423px;
+    height: 40px;
+}
+.group-div {
+    position: absolute;
+    top: 1389px;
+    left: 10px;
+    width: 423px;
+    height: 40px;
+    text-align: left;
+    font-size: 8px;
+}
+.harper-2-1 {
+    position: absolute;
+    top: 613px;
+    left: 24px;
+    width: 152px;
+    height: 192px;
+    object-fit: cover;
+}
+.harper-3-1 {
+    position: absolute;
+    top: 613px;
+    left: 270px;
+    width: 152px;
+    height: 192px;
+    object-fit: cover;
+}
+.harper-1-1 {
+    position: absolute;
+    top: 845px;
+    left: 26px;
+    width: 152px;
+    height: 192px;
+    object-fit: cover;
+}
+.kalista-1-icon {
+    position: absolute;
+    top: 843px;
+    left: 270px;
+    width: 152px;
+    height: 192px;
+    object-fit: cover;
+}
+.about-us {
+    width: 100%;
+    position: relative;
+    background-color: #253352;
+    height: 1418px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 10px;
+    color: #fff;
+    font-family: Inter;
+}
+
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+a{
+    color: white;
+}

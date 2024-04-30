@@ -1,0 +1,435 @@
+.nav-link {
+    position: relative;
+    line-height: 28px;
+}
+.navitems {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6px 16px;
+    cursor: pointer;
+}
+.navbar-nav {
+    position: absolute;
+    top: 52px;
+    right: 61px;
+    width: 90px;
+    height: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 10px;
+}
+.navitems1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6px 16px;
+}
+.navbar-nav1 {
+    position: absolute;
+    top: 52px;
+    right: -15px;
+    width: 90px;
+    height: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    cursor: pointer;
+    font-size: 10px;
+}
+.navbar-nav2 {
+    position: absolute;
+    top: 52px;
+    right: 130px;
+    width: 90px;
+    height: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 10px;
+}
+.logo-icon {
+    position: absolute;
+    top: 41px;
+    left: 12px;
+    width: 132.5px;
+    height: 33.1px;
+    object-fit: contain;
+}
+.red-circle-faded {
+    position: absolute;
+    top: -25px;
+    left: 22px;
+    filter: blur(150px);
+    border-radius: 50%;
+    background-color: #e51a25;
+    width: 93px;
+    height: 93px;
+}
+.red-circle-faded1 {
+    position: absolute;
+    top: 348px;
+    left: calc(50% - 150.5px);
+    filter: blur(500px);
+    border-radius: 50%;
+    background-color: #e51a25;
+    width: 293px;
+    height: 335px;
+}
+.section-8 {
+    position: absolute;
+    top: 134px;
+    left: calc(50% - 170.5px);
+    line-height: 18px;
+    font-weight: 800;
+    text-align: center;
+    display: inline-block;
+    width: 138px;
+    height: 20px;
+}
+.span {
+    color: #e51a25;
+}
+.section-9 {
+    position: absolute;
+    top: 222px;
+    left: calc(50% - 171.5px);
+    line-height: 18px;
+    font-weight: 800;
+    text-align: center;
+    display: inline-block;
+    width: 111px;
+    height: 20px;
+}
+.section-10 {
+    position: absolute;
+    top: 328px;
+    left: calc(50% - 170.5px);
+    line-height: 18px;
+    font-weight: 800;
+    text-align: center;
+    display: inline-block;
+    width: 111px;
+    height: 20px;
+}
+.section-11 {
+    position: absolute;
+    top: 425px;
+    left: calc(50% - 165.5px);
+    line-height: 18px;
+    font-weight: 800;
+    text-align: center;
+    display: inline-block;
+    width: 111px;
+    height: 20px;
+}
+.section-12 {
+    position: absolute;
+    top: 528px;
+    left: calc(50% - 157.5px);
+    line-height: 18px;
+    font-weight: 800;
+    text-align: center;
+    display: inline-block;
+    width: 111px;
+    height: 20px;
+}
+.section-13 {
+    position: absolute;
+    top: 630px;
+    left: calc(50% - 154.5px);
+    line-height: 18px;
+    font-weight: 800;
+    text-align: center;
+    display: inline-block;
+    width: 111px;
+    height: 20px;
+}
+.contact-us-child {
+    position: absolute;
+    top: 174px;
+    left: calc(50% - 157.5px);
+    border-radius: 20px;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 315px;
+    height: 760px;
+}
+.placeholder {
+    flex: 1;
+    position: relative;
+    line-height: 20px;
+}
+.content {
+    align-self: stretch;
+    border-radius: 6px;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 9px 16px;
+}
+.input {
+    position: absolute;
+    top: 262px;
+    left: calc(50% - 142.5px);
+    width: 285px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16px;
+    color: #adb5bd;
+}
+.input1 {
+    position: absolute;
+    top: 359px;
+    left: calc(50% - 142.5px);
+    width: 285px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16px;
+    color: #adb5bd;
+}
+.input2 {
+    position: absolute;
+    top: 456px;
+    left: calc(50% - 142.5px);
+    width: 285px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16px;
+    color: #adb5bd;
+}
+.input3 {
+    position: absolute;
+    top: 560px;
+    left: calc(50% - 142.5px);
+    width: 285px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16px;
+    color: #adb5bd;
+}
+.content4 {
+    align-self: stretch;
+    flex: 1;
+    border-radius: 6px;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 16px;
+}
+.textarea {
+    position: absolute;
+    top: 674px;
+    left: calc(50% - 142.5px);
+    width: 285px;
+    height: 163px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16px;
+    color: #adb5bd;
+}
+.card-img-child {
+    width: 350px;
+    position: relative;
+    height: 192px;
+    object-fit: cover;
+}
+.card-img {
+    border-radius: 8px 8px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.card-title {
+    width: 302px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+}
+.some-quick-example {
+    width: 302px;
+    position: relative;
+    font-size: 16px;
+    line-height: 28px;
+    display: inline-block;
+}
+.card-content {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.buttons {
+    position: absolute;
+    top: calc(50% - 10px);
+    left: 19px;
+}
+.card-button {
+    width: 100px;
+    position: relative;
+    height: 50px;
+    font-size: 16px;
+    color: #fff;
+}
+.card-body {
+    align-self: stretch;
+    border: 1px solid #1a86e0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 24px;
+    gap: 24px;
+}
+.card {
+    position: absolute;
+    top: 980px;
+    left: calc(50% - 174.5px);
+    border-radius: 12px;
+    background-color: #fff;
+    border: 1px solid #1a86e0;
+    box-sizing: border-box;
+    height: 353px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: center;
+    font-size: 28px;
+    color: #152536;
+}
+.button1 {
+    width: 198px;
+    position: relative;
+    left: 70px;
+    font-weight: 600;
+    white-space: pre-wrap;
+    display: inline-block;
+    height: 50px;
+    flex-shrink: 0;
+    font-size: 15px;
+}
+.button {
+    align-self: stretch;
+    flex: 1;
+    border-radius: 20px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 16px 24px;
+    height: 10px;
+}
+.buttondefault {
+    position: absolute;
+    top: 869px;
+    left: calc(50% - 65.5px);
+    border-radius: 20px;
+    width: 124px;
+    height: 29px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 8px;
+    color: #000;
+}
+.group-child {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    background-color: #000;
+    width: 423px;
+    height: 20px;
+}
+.logo-icon1 {
+    position: absolute;
+    top: 12px;
+    left: 21.43px;
+    width: 106px;
+    height: 16.5px;
+    object-fit: contain;
+}
+.navitems3 {
+    position: absolute;
+    top: 0px;
+    left: 170.33px;
+    width: 97px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6px 16px;
+    box-sizing: border-box;
+}
+.contact-us1 {
+    position: absolute;
+    top: 6px;
+    left: 327.12px;
+    line-height: 28px;
+    display: inline-block;
+    width: 48.5px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 423px;
+    height: 40px;
+}
+.contact-us-inner {
+    position: absolute;
+    top: 1415px;
+    left: 10px;
+    width: 423px;
+    height: 40px;
+    font-size: 8px;
+}
+.contact-us {
+    width: 100%;
+    position: relative;
+    background-color: #283452;
+    height: 1443px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 17px;
+    color: #fff;
+    font-family: Inter;
+}
+
+
+body {
+    margin: 0;
+    line-height: normal;
+    }
+
+    a{
+        color: white;
+    }
